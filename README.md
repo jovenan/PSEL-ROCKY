@@ -4,7 +4,7 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do Github em um 
 
 `git clone https://github.com/jovenan/PSEL-ROCKY.git`
 
-Para acessar a página em produção [clique aqui](https://psel-rocky-jonatas.netlify.app/)
+Para acessar a página em produção [clique aqui](https://psel-rocky-jonatas.netlify.app/).
 
 ### A aplicação
 
